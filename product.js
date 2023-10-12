@@ -1,1 +1,1 @@
-console.log('produc model');
+console.log('produc model, that ok');
